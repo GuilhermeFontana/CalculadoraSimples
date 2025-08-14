@@ -1,17 +1,17 @@
-# 🧮 Calculadora Simples em Java
+#  Calculadora Simples em Java
 
 Uma calculadora básica desenvolvida em Java que permite realizar operações matemáticas fundamentais através da linha de comando.
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
-- ✅ Adição (+)
-- ✅ Subtração (-)
-- ✅ Multiplicação (*)
-- ✅ Divisão (/)
-- ✅ Verificação de divisão por zero
-- ✅ Interface interativa via terminal
+-  Adição (+)
+-  Subtração (-)
+-  Multiplicação (*)
+-  Divisão (/)
+-  Verificação de divisão por zero
+-  Interface interativa via terminal
 
-## 🚀 Como usar
+##  Como usar
 
 ### Pré-requisitos
 
@@ -36,7 +36,7 @@ java Main
    - Digite o segundo número
    - Veja o resultado!
 
-## 💻 Exemplo de uso
+##  Exemplo de uso
 
 ```
 =================BEM-VINDO À CALCULADORA=================
@@ -51,7 +51,7 @@ Digite o segundo número: 5
 Resultado: 15.0
 ```
 
-## 🔧 Estrutura do código
+##  Estrutura do código
 
 O programa utiliza:
 - `Scanner` para entrada de dados do usuário
@@ -59,12 +59,12 @@ O programa utiliza:
 - Tratamento básico para divisão por zero
 - Tipos `double` para suporte a números decimais
 
-## ⚠️ Tratamento de erros
+## ⚠ Tratamento de erros
 
 - **Divisão por zero**: O programa detecta e impede divisões por zero, exibindo a mensagem "Impossível divisão por 0. Reinicie o programa!"
 - **Operação inválida**: Para operações não reconhecidas, exibe "Sinal inexistente. Reinicie o programa!"
 
-## 🛠️ Possíveis melhorias
+##  Possíveis melhorias
 
 - [ ] Loop para múltiplas operações sem reiniciar
 - [ ] Validação de entrada para números
@@ -72,7 +72,7 @@ O programa utiliza:
 - [ ] Mais operações (potenciação, raiz quadrada, etc.)
 - [ ] Interface gráfica
 
-## 📝 Licença
+##  Licença
 
 Este projeto é de uso livre para fins educacionais.
 
